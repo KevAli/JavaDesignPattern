@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RectangleLayout.iml" filepath="$PROJECT_DIR$/RectangleLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevRectLoyoutWithoutPattern.iml" filepath="$PROJECT_DIR$/kevRectLoyoutWithoutPattern.iml" />
     </modules>
   </component>
 </project>
