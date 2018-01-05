@@ -12,8 +12,8 @@ public class LowLine implements Comparable<LowLine> {
     int width;//水平线宽度（x2-x1）
 
     //重新计算当前的宽度
-    public void setWidth() {
-        this.width = this.x2 - this.x1;
+    public int setWidth() {
+        return this.width = this.x2 - this.x1;
     }
 
     //和左边的水平线互相更新，若等高则吞并为一条
@@ -57,8 +57,6 @@ public class LowLine implements Comparable<LowLine> {
 
     //bool operator<(LowLine o);//C++代码中用于指定排序的标准,Java这里不需要，可以在调用时再指定或者实现comparable接口
     //排序时再指定排序标准会比较灵活，但是这里不会有第二个排序标准，即时需要指定新的排序仍然可以排序时再指定
-
-
     public int compareTo(LowLine o) {
         return this.x1 - o.x1;
     }

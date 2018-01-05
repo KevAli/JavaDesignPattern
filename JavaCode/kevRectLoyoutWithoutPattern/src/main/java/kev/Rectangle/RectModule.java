@@ -24,11 +24,11 @@ public class RectModule {
 
     }
 
-    RectModule() {
+    public RectModule() {
 
     }
 
-    RectModule(String name, int height, int width, int timelim) {
+    public RectModule(String name, int height, int width, int timelim) {
         this.name = name;
         this.height = width;
         this.width = height;

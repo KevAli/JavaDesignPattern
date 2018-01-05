@@ -1,0 +1,250 @@
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=0
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=0
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=0
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=0
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=0
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=0
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=0
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=0
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=0
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=0
+     name=l9- height=1700- width=2400- timelimit=1- value=4080- X=0- Y=0
+     name=l9- height=1700- width=2400- timelimit=1- value=4080- X=0- Y=0
+     name=l9- height=1700- width=2400- timelimit=1- value=4080- X=0- Y=0
+     name=l9- height=1700- width=2400- timelimit=1- value=4080- X=0- Y=0
+     name=l9- height=1700- width=2400- timelimit=1- value=4080- X=0- Y=0
+     name=l9- height=1700- width=2400- timelimit=1- value=4080- X=0- Y=0
+     name=l9- height=1700- width=2400- timelimit=1- value=4080- X=0- Y=0
+     name=l9- height=1700- width=2400- timelimit=1- value=4080- X=0- Y=0
+     name=l9- height=1700- width=2400- timelimit=1- value=4080- X=0- Y=0
+     name=l9- height=1700- width=2400- timelimit=1- value=4080- X=0- Y=0
+     name=l11- height=1700- width=1800- timelimit=1- value=3060- X=0- Y=0
+     name=l11- height=1700- width=1800- timelimit=1- value=3060- X=0- Y=0
+     name=l11- height=1700- width=1800- timelimit=1- value=3060- X=0- Y=0
+     name=l11- height=1700- width=1800- timelimit=1- value=3060- X=0- Y=0
+     name=l11- height=1700- width=1800- timelimit=1- value=3060- X=0- Y=0
+     name=l11- height=1700- width=1800- timelimit=1- value=3060- X=0- Y=0
+     name=l11- height=1700- width=1800- timelimit=1- value=3060- X=0- Y=0
+     name=l11- height=1700- width=1800- timelimit=1- value=3060- X=0- Y=0
+     name=l11- height=1700- width=1800- timelimit=1- value=3060- X=0- Y=0
+     name=l11- height=1700- width=1800- timelimit=1- value=3060- X=0- Y=0
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=0- Y=0
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=0- Y=0
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=0- Y=0
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=0- Y=0
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=0- Y=0
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=0- Y=0
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=0- Y=0
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=0- Y=0
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=0- Y=0
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=0- Y=0
+     name=l4- height=800- width=2400- timelimit=1- value=1920- X=0- Y=0
+     name=l4- height=800- width=2400- timelimit=1- value=1920- X=0- Y=0
+     name=l4- height=800- width=2400- timelimit=1- value=1920- X=0- Y=0
+     name=l4- height=800- width=2400- timelimit=1- value=1920- X=0- Y=0
+     name=l4- height=800- width=2400- timelimit=1- value=1920- X=0- Y=0
+     name=l4- height=800- width=2400- timelimit=1- value=1920- X=0- Y=0
+     name=l4- height=800- width=2400- timelimit=1- value=1920- X=0- Y=0
+     name=l4- height=800- width=2400- timelimit=1- value=1920- X=0- Y=0
+     name=l4- height=800- width=2400- timelimit=1- value=1920- X=0- Y=0
+     name=l4- height=800- width=2400- timelimit=1- value=1920- X=0- Y=0
+     name=l8- height=800- width=2300- timelimit=1- value=1840- X=0- Y=0
+     name=l8- height=800- width=2300- timelimit=1- value=1840- X=0- Y=0
+     name=l8- height=800- width=2300- timelimit=1- value=1840- X=0- Y=0
+     name=l8- height=800- width=2300- timelimit=1- value=1840- X=0- Y=0
+     name=l8- height=800- width=2300- timelimit=1- value=1840- X=0- Y=0
+     name=l8- height=800- width=2300- timelimit=1- value=1840- X=0- Y=0
+     name=l8- height=800- width=2300- timelimit=1- value=1840- X=0- Y=0
+     name=l8- height=800- width=2300- timelimit=1- value=1840- X=0- Y=0
+     name=l8- height=800- width=2300- timelimit=1- value=1840- X=0- Y=0
+     name=l8- height=800- width=2300- timelimit=1- value=1840- X=0- Y=0
+     name=l2- height=800- width=2000- timelimit=1- value=1600- X=0- Y=0
+     name=l2- height=800- width=2000- timelimit=1- value=1600- X=0- Y=0
+     name=l2- height=800- width=2000- timelimit=1- value=1600- X=0- Y=0
+     name=l2- height=800- width=2000- timelimit=1- value=1600- X=0- Y=0
+     name=l2- height=800- width=2000- timelimit=1- value=1600- X=0- Y=0
+     name=l2- height=800- width=2000- timelimit=1- value=1600- X=0- Y=0
+     name=l2- height=800- width=2000- timelimit=1- value=1600- X=0- Y=0
+     name=l2- height=800- width=2000- timelimit=1- value=1600- X=0- Y=0
+     name=l2- height=800- width=2000- timelimit=1- value=1600- X=0- Y=0
+     name=l2- height=800- width=2000- timelimit=1- value=1600- X=0- Y=0
+     name=l6- height=800- width=1800- timelimit=1- value=1440- X=0- Y=0
+     name=l6- height=800- width=1800- timelimit=1- value=1440- X=0- Y=0
+     name=l6- height=800- width=1800- timelimit=1- value=1440- X=0- Y=0
+     name=l6- height=800- width=1800- timelimit=1- value=1440- X=0- Y=0
+     name=l6- height=800- width=1800- timelimit=1- value=1440- X=0- Y=0
+     name=l6- height=800- width=1800- timelimit=1- value=1440- X=0- Y=0
+     name=l6- height=800- width=1800- timelimit=1- value=1440- X=0- Y=0
+     name=l6- height=800- width=1800- timelimit=1- value=1440- X=0- Y=0
+     name=l6- height=800- width=1800- timelimit=1- value=1440- X=0- Y=0
+     name=l6- height=800- width=1800- timelimit=1- value=1440- X=0- Y=0
+     name=l3- height=700- width=1400- timelimit=1- value=980- X=0- Y=0
+     name=l3- height=700- width=1400- timelimit=1- value=980- X=0- Y=0
+     name=l3- height=700- width=1400- timelimit=1- value=980- X=0- Y=0
+     name=l3- height=700- width=1400- timelimit=1- value=980- X=0- Y=0
+     name=l3- height=700- width=1400- timelimit=1- value=980- X=0- Y=0
+     name=l3- height=700- width=1400- timelimit=1- value=980- X=0- Y=0
+     name=l3- height=700- width=1400- timelimit=1- value=980- X=0- Y=0
+     name=l3- height=700- width=1400- timelimit=1- value=980- X=0- Y=0
+     name=l3- height=700- width=1400- timelimit=1- value=980- X=0- Y=0
+     name=l3- height=700- width=1400- timelimit=1- value=980- X=0- Y=0
+     name=l7- height=700- width=1300- timelimit=1- value=910- X=0- Y=0
+     name=l7- height=700- width=1300- timelimit=1- value=910- X=0- Y=0
+     name=l7- height=700- width=1300- timelimit=1- value=910- X=0- Y=0
+     name=l7- height=700- width=1300- timelimit=1- value=910- X=0- Y=0
+     name=l7- height=700- width=1300- timelimit=1- value=910- X=0- Y=0
+     name=l7- height=700- width=1300- timelimit=1- value=910- X=0- Y=0
+     name=l7- height=700- width=1300- timelimit=1- value=910- X=0- Y=0
+     name=l7- height=700- width=1300- timelimit=1- value=910- X=0- Y=0
+     name=l7- height=700- width=1300- timelimit=1- value=910- X=0- Y=0
+     name=l7- height=700- width=1300- timelimit=1- value=910- X=0- Y=0
+     name=l5- height=700- width=800- timelimit=1- value=560- X=0- Y=0
+     name=l5- height=700- width=800- timelimit=1- value=560- X=0- Y=0
+     name=l5- height=700- width=800- timelimit=1- value=560- X=0- Y=0
+     name=l5- height=700- width=800- timelimit=1- value=560- X=0- Y=0
+     name=l5- height=700- width=800- timelimit=1- value=560- X=0- Y=0
+     name=l5- height=700- width=800- timelimit=1- value=560- X=0- Y=0
+     name=l5- height=700- width=800- timelimit=1- value=560- X=0- Y=0
+     name=l5- height=700- width=800- timelimit=1- value=560- X=0- Y=0
+     name=l5- height=700- width=800- timelimit=1- value=560- X=0- Y=0
+     name=l5- height=700- width=800- timelimit=1- value=560- X=0- Y=0
+     name=l1- height=700- width=300- timelimit=1- value=210- X=0- Y=0
+     name=l1- height=700- width=300- timelimit=1- value=210- X=0- Y=0
+     name=l1- height=700- width=300- timelimit=1- value=210- X=0- Y=0
+     name=l1- height=700- width=300- timelimit=1- value=210- X=0- Y=0
+     name=l1- height=700- width=300- timelimit=1- value=210- X=0- Y=0
+     name=l1- height=700- width=300- timelimit=1- value=210- X=0- Y=0
+     name=l1- height=700- width=300- timelimit=1- value=210- X=0- Y=0
+     name=l1- height=700- width=300- timelimit=1- value=210- X=0- Y=0
+     name=l1- height=700- width=300- timelimit=1- value=210- X=0- Y=0
+     name=l1- height=700- width=300- timelimit=1- value=210- X=0- Y=0
+-----------------------------------------------------------------------------------------------------------------------------------------
+Board Numbers:   5
+lastBoardHeight:   1400
+this is the NO.1 Workspace:
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=0,   fitness=0.2992
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=2800- Y=0,   fitness=0.303556
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=5600- Y=0,   fitness=0.313455
+     name=l4- height=2400- width=800- timelimit=1- value=1920- X=8400- Y=0,   fitness=0.404
+     name=l4- height=2400- width=800- timelimit=1- value=1920- X=9200- Y=0,   fitness=0.424
+     name=l4- height=2400- width=800- timelimit=1- value=1920- X=0- Y=1800,   fitness=0.552381
+     name=l4- height=2400- width=800- timelimit=1- value=1920- X=800- Y=1800,   fitness=0.552782
+     name=l4- height=2400- width=800- timelimit=1- value=1920- X=1600- Y=1800,   fitness=0.553277
+     name=l4- height=2400- width=800- timelimit=1- value=1920- X=2400- Y=1800,   fitness=0.553905
+     name=l4- height=2400- width=800- timelimit=1- value=1920- X=3200- Y=1800,   fitness=0.554725
+     name=l4- height=2400- width=800- timelimit=1- value=1920- X=4000- Y=1800,   fitness=0.555844
+     name=l4- height=2400- width=800- timelimit=1- value=1920- X=4800- Y=1800,   fitness=0.55746
+     name=l4- height=2400- width=800- timelimit=1- value=1920- X=5600- Y=1800,   fitness=0.56
+     name=l12- height=2800- width=1800- timelimit=1- value=5040- X=6400- Y=1800,   fitness=0.676
+     name=l12- height=2800- width=1800- timelimit=1- value=5040- X=8200- Y=2400,   fitness=0.786667
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=4200,   fitness=0.9775
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=2800- Y=4200,   fitness=0.991111
+     name=l6- height=1800- width=800- timelimit=1- value=1440- X=5600- Y=4200,   fitness=1
+     name=l10- height=1400- width=1800- timelimit=1- value=2520- X=6400- Y=4600,   fitness=1
+     name=l6- height=800- width=1800- timelimit=1- value=1440- X=8200- Y=5200,   fitness=1
+this is the NO.2 Workspace:
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=0- Y=0,   fitness=0.2992
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=2800- Y=0,   fitness=0.303556
+     name=l12- height=1800- width=2800- timelimit=1- value=5040- X=5600- Y=0,   fitness=0.313455
+     name=l8- height=2300- width=800- timelimit=1- value=1840- X=8400- Y=0,   fitness=0.388
+     name=l8- height=2300- width=800- timelimit=1- value=1840- X=9200- Y=0,   fitness=0.408
+     name=l8- height=2300- width=800- timelimit=1- value=1840- X=0- Y=1800,   fitness=0.529524
+     name=l8- height=2300- width=800- timelimit=1- value=1840- X=800- Y=1800,   fitness=0.529925
+     name=l8- height=2300- width=800- timelimit=1- value=1840- X=1600- Y=1800,   fitness=0.53042
+     name=l8- height=2300- width=800- timelimit=1- value=1840- X=2400- Y=1800,   fitness=0.531048
+     name=l8- height=2300- width=800- timelimit=1- value=1840- X=3200- Y=1800,   fitness=0.531868
+     name=l8- height=2300- width=800- timelimit=1- value=1840- X=4000- Y=1800,   fitness=0.532987
+     name=l8- height=2300- width=800- timelimit=1- value=1840- X=4800- Y=1800,   fitness=0.534603
+     name=l8- height=2300- width=800- timelimit=1- value=1840- X=5600- Y=1800,   fitness=0.537143
+     name=l9- height=2400- width=1700- timelimit=1- value=4080- X=6400- Y=1800,   fitness=0.582571
+     name=l9- height=2400- width=1700- timelimit=1- value=4080- X=8100- Y=2300,   fitness=0.658492
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=0- Y=4100,   fitness=0.918224
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=1400- Y=4100,   fitness=0.920674
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=2800- Y=4100,   fitness=0.925029
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=4200- Y=4100,   fitness=0.934928
+     name=l6- height=1800- width=800- timelimit=1- value=1440- X=5600- Y=4100,   fitness=0.949474
+     name=l11- height=1800- width=1700- timelimit=1- value=3060- X=6400- Y=4200,   fitness=1
+     name=l7- height=1300- width=700- timelimit=1- value=910- X=8100- Y=4700,   fitness=0.974737
+     name=l7- height=1300- width=700- timelimit=1- value=910- X=8800- Y=4700,   fitness=0.983333
+this is the NO.3 Workspace:
+     name=l11- height=1800- width=1700- timelimit=1- value=3060- X=0- Y=0,   fitness=0.2948
+     name=l11- height=1800- width=1700- timelimit=1- value=3060- X=1700- Y=0,   fitness=0.296193
+     name=l11- height=1800- width=1700- timelimit=1- value=3060- X=3400- Y=0,   fitness=0.298303
+     name=l11- height=1800- width=1700- timelimit=1- value=3060- X=5100- Y=0,   fitness=0.301878
+     name=l11- height=1800- width=1700- timelimit=1- value=3060- X=6800- Y=0,   fitness=0.30925
+     name=l2- height=2000- width=800- timelimit=1- value=1600- X=8500- Y=0,   fitness=0.341333
+     name=l3- height=1400- width=700- timelimit=1- value=980- X=9300- Y=0,   fitness=0.264
+     name=l3- height=1400- width=700- timelimit=1- value=980- X=9300- Y=1400,   fitness=0.332174
+     name=l2- height=2000- width=800- timelimit=1- value=1600- X=0- Y=1800,   fitness=0.460908
+     name=l2- height=2000- width=800- timelimit=1- value=1600- X=800- Y=1800,   fitness=0.461299
+     name=l2- height=2000- width=800- timelimit=1- value=1600- X=1600- Y=1800,   fitness=0.461781
+     name=l2- height=2000- width=800- timelimit=1- value=1600- X=2400- Y=1800,   fitness=0.462389
+     name=l2- height=2000- width=800- timelimit=1- value=1600- X=3200- Y=1800,   fitness=0.463181
+     name=l2- height=2000- width=800- timelimit=1- value=1600- X=4000- Y=1800,   fitness=0.464254
+     name=l2- height=2000- width=800- timelimit=1- value=1600- X=4800- Y=1800,   fitness=0.465792
+     name=l2- height=2000- width=800- timelimit=1- value=1600- X=5600- Y=1800,   fitness=0.468177
+     name=l9- height=2400- width=1700- timelimit=1- value=4080- X=6400- Y=1800,   fitness=0.580952
+     name=l2- height=2000- width=800- timelimit=1- value=1600- X=8100- Y=2000,   fitness=0.506667
+     name=l6- height=1800- width=800- timelimit=1- value=1440- X=8900- Y=2800,   fitness=0.569091
+     name=l11- height=1800- width=1700- timelimit=1- value=3060- X=0- Y=3800,   fitness=0.79608
+     name=l11- height=1800- width=1700- timelimit=1- value=3060- X=1700- Y=3800,   fitness=0.799923
+     name=l11- height=1800- width=1700- timelimit=1- value=3060- X=3400- Y=3800,   fitness=0.808121
+     name=l6- height=1800- width=800- timelimit=1- value=1440- X=5100- Y=3800,   fitness=0.81007
+     name=l6- height=1800- width=800- timelimit=1- value=1440- X=8100- Y=4000,   fitness=0.904
+     name=l11- height=1800- width=1700- timelimit=1- value=3060- X=5900- Y=4200,   fitness=0.990909
+     name=l3- height=1400- width=700- timelimit=1- value=980- X=8900- Y=4600,   fitness=0.985455
+     name=l1- height=300- width=700- timelimit=1- value=210- X=0- Y=5600,   fitness=0.724746
+     name=l1- height=300- width=700- timelimit=1- value=210- X=700- Y=5600,   fitness=0.725385
+     name=l1- height=300- width=700- timelimit=1- value=210- X=1400- Y=5600,   fitness=0.726222
+     name=l1- height=300- width=700- timelimit=1- value=210- X=2100- Y=5600,   fitness=0.727368
+     name=l1- height=300- width=700- timelimit=1- value=210- X=2800- Y=5600,   fitness=0.729032
+     name=l1- height=300- width=700- timelimit=1- value=210- X=3500- Y=5600,   fitness=0.731667
+     name=l1- height=300- width=700- timelimit=1- value=210- X=4200- Y=5600,   fitness=0.736471
+     name=l1- height=300- width=700- timelimit=1- value=210- X=4900- Y=5600,   fitness=0.748
+this is the NO.4 Workspace:
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=0- Y=0,   fitness=0.2936
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=1400- Y=0,   fitness=0.294512
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=2800- Y=0,   fitness=0.295778
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=4200- Y=0,   fitness=0.297655
+     name=l10- height=1800- width=1400- timelimit=1- value=2520- X=5600- Y=0,   fitness=0.300727
+     name=l9- height=1700- width=2400- timelimit=1- value=4080- X=7000- Y=0,   fitness=0.304
+     name=l6- height=1800- width=800- timelimit=1- value=1440- X=7000- Y=1700,   fitness=0.412527
+     name=l9- height=2400- width=1700- timelimit=1- value=4080- X=7800- Y=1700,   fitness=0.566723
+     name=l9- height=2400- width=1700- timelimit=1- value=4080- X=0- Y=1800,   fitness=0.558286
+     name=l9- height=2400- width=1700- timelimit=1- value=4080- X=1700- Y=1800,   fitness=0.561402
+     name=l9- height=2400- width=1700- timelimit=1- value=4080- X=3400- Y=1800,   fitness=0.56746
+     name=l9- height=2400- width=1700- timelimit=1- value=4080- X=5100- Y=1800,   fitness=0.584361
+     name=l6- height=1800- width=800- timelimit=1- value=1440- X=6800- Y=3500,   fitness=0.7232
+     name=l6- height=1800- width=800- timelimit=1- value=1440- X=7600- Y=4100,   fitness=0.922807
+     name=l6- height=1800- width=800- timelimit=1- value=1440- X=8400- Y=4100,   fitness=0.929474
+     name=l3- height=1400- width=700- timelimit=1- value=980- X=9200- Y=4100,   fitness=0.742368
+     name=l9- height=1700- width=2400- timelimit=1- value=4080- X=0- Y=4200,   fitness=0.920784
+     name=l3- height=1400- width=700- timelimit=1- value=980- X=2400- Y=4200,   fitness=0.75303
+     name=l3- height=1400- width=700- timelimit=1- value=980- X=3100- Y=4200,   fitness=0.754234
+     name=l3- height=1400- width=700- timelimit=1- value=980- X=3800- Y=4200,   fitness=0.756
+     name=l3- height=1400- width=700- timelimit=1- value=980- X=4500- Y=4200,   fitness=0.758841
+     name=l3- height=1400- width=700- timelimit=1- value=980- X=5200- Y=4200,   fitness=0.764167
+     name=l3- height=1400- width=700- timelimit=1- value=980- X=5900- Y=4200,   fitness=0.777778
+     name=l5- height=700- width=800- timelimit=1- value=560- X=6600- Y=5300,   fitness=0.992
+     name=l1- height=300- width=700- timelimit=1- value=210- X=9200- Y=5500,   fitness=0.611
+     name=l1- height=300- width=700- timelimit=1- value=210- X=2400- Y=5600,   fitness=0.726667
+this is the NO.5 Workspace:
+     name=l7- height=1300- width=700- timelimit=1- value=910- X=0- Y=0,   fitness=0.2108
+     name=l7- height=1300- width=700- timelimit=1- value=910- X=700- Y=0,   fitness=0.211011
+     name=l7- height=1300- width=700- timelimit=1- value=910- X=1400- Y=0,   fitness=0.211256
+     name=l7- height=1300- width=700- timelimit=1- value=910- X=2100- Y=0,   fitness=0.211544
+     name=l7- height=1300- width=700- timelimit=1- value=910- X=2800- Y=0,   fitness=0.211889
+     name=l7- height=1300- width=700- timelimit=1- value=910- X=3500- Y=0,   fitness=0.212308
+     name=l7- height=1300- width=700- timelimit=1- value=910- X=4200- Y=0,   fitness=0.212828
+     name=l7- height=1300- width=700- timelimit=1- value=910- X=4900- Y=0,   fitness=0.21349
+     name=l5- height=700- width=800- timelimit=1- value=560- X=5600- Y=0,   fitness=0.119273
+     name=l5- height=700- width=800- timelimit=1- value=560- X=6400- Y=0,   fitness=0.120889
+     name=l5- height=700- width=800- timelimit=1- value=560- X=7200- Y=0,   fitness=0.123429
+     name=l5- height=700- width=800- timelimit=1- value=560- X=8000- Y=0,   fitness=0.128
+     name=l5- height=700- width=800- timelimit=1- value=560- X=8800- Y=0,   fitness=0.138667
+     name=l5- height=700- width=800- timelimit=1- value=560- X=5600- Y=700,   fitness=0.134065
+     name=l5- height=700- width=800- timelimit=1- value=560- X=6400- Y=700,   fitness=0.135681
+     name=l5- height=700- width=800- timelimit=1- value=560- X=7200- Y=700,   fitness=0.138221
+     name=l5- height=700- width=800- timelimit=1- value=560- X=8000- Y=700,   fitness=0.142792
+
+the least of mdsr :
