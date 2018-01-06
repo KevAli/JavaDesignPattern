@@ -1,17 +1,16 @@
 package test.kev.LowLine;
 
-import kev.LowLine.LowLine;
+import withoutpattern.lowline.LowLine;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
 /**
- * LowLine Tester.
+ * lowline Tester.
  *
  * @author <Authors name>
  * @version 1.0
@@ -36,7 +35,7 @@ public class LowLineTest {
     }
 
     /**
-     * Method: merge_left(LowLine left_l)
+     * Method: merge_left(lowline left_l)
      */
     @Test
     public void testMerge_left() throws Exception {
@@ -44,7 +43,7 @@ public class LowLineTest {
     }
 
     /**
-     * Method: merge_right(LowLine right_l)
+     * Method: merge_right(lowline right_l)
      */
     @Test
     public void testMerge_right() throws Exception {
@@ -52,7 +51,7 @@ public class LowLineTest {
     }
 
     /**
-     * Method: updateY(LowLine leftLine, LowLine rightLine)
+     * Method: updateY(lowline leftLine, lowline rightLine)
      */
     @Test
     public void testUpdateY() throws Exception {
@@ -60,7 +59,7 @@ public class LowLineTest {
     }
 
     /**
-     * Method: compareTo(LowLine o)
+     * Method: compareTo(lowline o)
      */
     @Test
     public void testCompareTo() throws Exception {
