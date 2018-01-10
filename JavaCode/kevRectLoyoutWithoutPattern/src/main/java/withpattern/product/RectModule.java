@@ -3,7 +3,7 @@ package withpattern.product;//用于存放主类的包
 import lombok.Data;
 
 @Data   //lombok插件的一个注解，自动生成getter和setter代码简化项目代码
-public class RectModule extends Rectangle{
+public class RectModule extends Rectangle {
     private String name;//矩形件的名称或者型号
     private int height;//矩形件的高度
     private int width;//矩形件的宽度
@@ -30,8 +30,8 @@ public class RectModule extends Rectangle{
 
     public RectModule(String name, int height, int width, int timelim) {
         this.name = name;
-        this.height = width;
-        this.width = height;
+        this.height = height;
+        this.width = width;
         this.timelim = timelim;
         this.priority = timelim;
         this.area = height * width;
@@ -41,10 +41,11 @@ public class RectModule extends Rectangle{
         this.transable = true;
         this.packed = false;
     }
+
     public void setProperty(String name, int height, int width, int timelim) {
         this.name = name;
-        this.height = width;
-        this.width = height;
+        this.height = height;
+        this.width = width;
         this.timelim = timelim;
         this.priority = timelim;
         this.area = height * width;

@@ -28,7 +28,7 @@ public class MainWithPatternTest {
     @Test
     public void testMain() throws Exception {
         MainWithPattern.main(new String[]{"F:\\Kevin\\GitHub\\JavaDesignPattern\\JavaCode\\a.txt",
-                "F:\\Kevin\\GitHub\\JavaDesignPattern\\JavaCode\\d.txt "});
+                "F:\\Kevin\\GitHub\\JavaDesignPattern\\JavaCode\\d.txt"});
     }
 
 
