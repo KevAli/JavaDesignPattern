@@ -72,7 +72,6 @@ public class MainWithPattern {
         System.out.println("After Sort-------------------------------------------------------------------------------------");
 //        rectWorkspace.sortByValue();
         Collections.sort(rectWorkspace.getMdls(), new Comparator<RectModule>() {
-            @Override
             public int compare(RectModule o1, RectModule o2) {
                 return o2.getValue() - o1.getValue();
             }
@@ -105,7 +104,7 @@ public class MainWithPattern {
                     System.out.println(rectModule);
                     fw.write(rectModule.toString() + "\n");
                 }
-                j+=1;
+                j += 1;
             }
             fw.close();
         } catch (IOException e) {

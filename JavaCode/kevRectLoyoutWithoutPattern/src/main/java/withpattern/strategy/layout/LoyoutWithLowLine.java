@@ -9,8 +9,6 @@ import java.util.Iterator;
 import java.util.List;
 
 public class LoyoutWithLowLine implements LayoutStrategy {
-
-    @Override
     public List<List<RectModule>> layout(int width, int height, List<RectModule> mdls, LowLineList lowLineList) {
         List<RectModule> mdsr = new ArrayList<RectModule>();
         List<List<RectModule>> mdlsch = new ArrayList<List<RectModule>>();

@@ -43,4 +43,100 @@ public class RectModule {
     }
     //bool operator<(RectModule other);//C++代码中重载比较操作符，自主设定排序的标准，java使用另一种方法可以在排序的时候再指定排序标准
     //static bool sortByFitness(list<RectModule>::iterator a1,list<RectModule>::iterator a2);//C++代码中用于另一种排序标准的函数入口，这里也不需要
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getHeight() {
+        return height;
+    }
+
+    public void setHeight(int height) {
+        this.height = height;
+    }
+
+    public int getWidth() {
+        return width;
+    }
+
+    public void setWidth(int width) {
+        this.width = width;
+    }
+
+    public int getTimelim() {
+        return timelim;
+    }
+
+    public void setTimelim(int timelim) {
+        this.timelim = timelim;
+    }
+
+    public int getArea() {
+        return area;
+    }
+
+    public void setArea(int area) {
+        this.area = area;
+    }
+
+    public int getValue() {
+        return value;
+    }
+
+    public void setValue(int value) {
+        this.value = value;
+    }
+
+    public int getPriority() {
+        return priority;
+    }
+
+    public void setPriority(int priority) {
+        this.priority = priority;
+    }
+
+    public int getX() {
+        return x;
+    }
+
+    public void setX(int x) {
+        this.x = x;
+    }
+
+    public int getY() {
+        return y;
+    }
+
+    public void setY(int y) {
+        this.y = y;
+    }
+
+    public double getFitness() {
+        return fitness;
+    }
+
+    public void setFitness(double fitness) {
+        this.fitness = fitness;
+    }
+
+    public boolean isTransable() {
+        return transable;
+    }
+
+    public void setTransable(boolean transable) {
+        this.transable = transable;
+    }
+
+    public boolean isPacked() {
+        return packed;
+    }
+
+    public void setPacked(boolean packed) {
+        this.packed = packed;
+    }
 }

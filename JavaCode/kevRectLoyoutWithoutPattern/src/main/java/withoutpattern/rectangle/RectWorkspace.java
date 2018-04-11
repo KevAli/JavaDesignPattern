@@ -132,4 +132,59 @@ public class RectWorkspace {
         this.lowlinelist.setGuard(this.width, this.height);
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getHeight() {
+        return height;
+    }
+
+    public void setHeight(int height) {
+        this.height = height;
+    }
+
+    public int getWidth() {
+        return width;
+    }
+
+    public void setWidth(int width) {
+        this.width = width;
+    }
+
+    public List<RectModule> getMdls() {
+        return mdls;
+    }
+
+    public void setMdls(List<RectModule> mdls) {
+        this.mdls = mdls;
+    }
+
+    public List<RectModule> getMdsr() {
+        return mdsr;
+    }
+
+    public void setMdsr(List<RectModule> mdsr) {
+        this.mdsr = mdsr;
+    }
+
+    public List<List<RectModule>> getMdlsch() {
+        return mdlsch;
+    }
+
+    public void setMdlsch(List<List<RectModule>> mdlsch) {
+        this.mdlsch = mdlsch;
+    }
+
+    public LowLineList getLowlinelist() {
+        return lowlinelist;
+    }
+
+    public void setLowlinelist(LowLineList lowlinelist) {
+        this.lowlinelist = lowlinelist;
+    }
 }

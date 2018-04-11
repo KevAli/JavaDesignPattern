@@ -22,7 +22,6 @@ public class RectWorkspace extends Rectangle {
      */
     //private LowLineList lowlinelist = new LowLineList();//排序算法需要使用到的辅助工具类
     //private List<RectModule> mdsr = new ArrayList<RectModule>();//当前一个工作台内可以排序好的矩形件列表
-
     public int getMixHeight() {
         int mixHeight = this.mdls.get(0).getHeight();
         for (RectModule o : this.mdls) {
@@ -59,4 +58,51 @@ public class RectWorkspace extends Rectangle {
         this.height = height;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getHeight() {
+        return height;
+    }
+
+    public void setHeight(int height) {
+        this.height = height;
+    }
+
+    public int getWidth() {
+        return width;
+    }
+
+    public void setWidth(int width) {
+        this.width = width;
+    }
+
+    public List<RectModule> getMdls() {
+        return mdls;
+    }
+
+    public void setMdls(List<RectModule> mdls) {
+        this.mdls = mdls;
+    }
+
+    public LayoutStrategy getLayoutStrategy() {
+        return layoutStrategy;
+    }
+
+    public void setLayoutStrategy(LayoutStrategy layoutStrategy) {
+        this.layoutStrategy = layoutStrategy;
+    }
+
+    public List<List<RectModule>> getMdlsch() {
+        return mdlsch;
+    }
+
+    public void setMdlsch(List<List<RectModule>> mdlsch) {
+        this.mdlsch = mdlsch;
+    }
 }

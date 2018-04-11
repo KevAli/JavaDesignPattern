@@ -78,10 +78,11 @@ public class Main {
                 fw.write("The " + j + "Mdlsch:--------\n");
                 for (RectModule rectModule : listRectModules) {
                     System.out.println(rectModule);
-                    fw.write(rectModule.toString()+"\n");
+                    fw.write(rectModule.toString() + "\n");
                 }
                 j++;
             }
+
             fw.close();
         } catch (IOException e) {
             e.printStackTrace();

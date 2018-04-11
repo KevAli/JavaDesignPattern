@@ -73,4 +73,52 @@ public class LowLine implements Comparable<LowLine> {
         this.right_y = -1;
         this.setWidth();
     }
+
+    public int getX1() {
+        return x1;
+    }
+
+    public void setX1(int x1) {
+        this.x1 = x1;
+    }
+
+    public int getX2() {
+        return x2;
+    }
+
+    public void setX2(int x2) {
+        this.x2 = x2;
+    }
+
+    public int getY() {
+        return y;
+    }
+
+    public void setY(int y) {
+        this.y = y;
+    }
+
+    public int getLeft_y() {
+        return left_y;
+    }
+
+    public void setLeft_y(int left_y) {
+        this.left_y = left_y;
+    }
+
+    public int getRight_y() {
+        return right_y;
+    }
+
+    public void setRight_y(int right_y) {
+        this.right_y = right_y;
+    }
+
+    public int getWidth() {
+        return width;
+    }
+
+    public void setWidth(int width) {
+        this.width = width;
+    }
 }
